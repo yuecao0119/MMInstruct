@@ -1,0 +1,38 @@
+{
+    "judge": {
+        "Chinese": [
+            "<object>在图片中的精确位置是<position>吗？",
+            "在这张图片中，<object>朝向的是<direction>吗？",
+            "这张图片中<object>的可见数量是<number>吗？"
+        ],
+        "English": [
+            "Is the precise position of <object> in the picture <position>?",
+            "In this picture, is <object> facing <direction>?",
+            "Is the visible number of <object> in this image <number>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "<object>在图片中的精确位置是什么？",
+            "在这张图片中，<object>朝向哪个方向？",
+            "请估算出这张图片中<object>的可见数量？"
+        ],
+        "English": [
+            "What is the precise position of <object> in the picture?",
+            "In this picture, which direction does <object> face?",
+            "Please estimate the visible number of <object>s in this image?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "<object>在图片中的精确位置是什么？",
+            "在这张图片中，<object>朝向哪个方向？",
+            "请估算出这张图片中<object>的可见数量？"
+        ],
+        "English": [
+            "What is the precise position of <object> in the picture?",
+            "In this picture, which direction does <object> face?",
+            "Please estimate the visible number of <object>s in this image?"
+        ]
+    }
+}

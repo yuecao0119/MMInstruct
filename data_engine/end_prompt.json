@@ -1,0 +1,106 @@
+{
+    "longsentence": {
+        "Chinese": [
+            "请确保你的回答尽可能详细。",
+            "提供详细的解释。",
+            "你的回答需要尽可能详细。",
+            "确保你的回答充分详细。",
+            "在你的答案中深入探讨。",
+            "在你的回答中详细阐述。",
+            "务必提供详细的解答。",
+            "提供详尽的阐释。",
+            "详细解释一下。",
+            "详细阐述你的回答。"
+        ],
+        "English": [
+            " Provide an extensive response.",
+            " Give a comprehensive reply.",
+            " Present a detailed explanation.",
+            " Offer a detailed explanation.",
+            " Be as detailed as possible in your response.",
+            " Be as thorough as you can in your response.",
+            " Go into great depth in your answer.",
+            " Please ensure that your answer is as detailed as possible.",
+            " Your response needs to be as detailed as possible.",
+            " Make sure to provide a detailed answer."
+        ]
+    },
+    "shortsentence": {
+        "Chinese": [
+            "请尽可能简明扼要地回答问题。",
+            "保持你的回复简短明了。",
+            "简明扼要地回答。",
+            "请简明扼要地回答问题。",
+            "你的回答需要尽可能简短。",
+            "在传达必要信息的同时，简明扼要地回应。",
+            "尽可能保持简洁。",
+            "你的答案尽量保持简洁。",
+            "回答需简洁明了。",
+            "请用简明扼要的语言回答。"
+        ],
+        "English": [
+            " Please answer the question as concisely as possible.",
+            " Keep your reply short and clear.",
+            " Keep your reply as brief and clear as possible.",
+            " Provide a brief and clear answer, please.",
+            " Answer concisely.",
+            " Be as brief as you can in your response.",
+            " Respond with brevity while conveying the necessary information.",
+            " Keep it as concise as possible.",
+            " Give a concise and straightforward reply.",
+            " Please keep your answer concise and to the point."
+        ]
+    },
+    "judge": {
+        "Chinese": [
+            "我可以要求以'是'或'否'的形式做出回应吗？",
+            "你的回答应该限于'是'还是'否。",
+            "你需要回答'是'或'否'。",
+            "你需要用'是'还是'否'来回答。",
+            "请用'是'或'否'来回答",
+            "回答时请使用'是'或'否'。",
+            "请以'是'或'否'的方式作答。",
+            "回答时请使用'是'或'否'。",
+            "请简单地用'是'或'否'回答。",
+            "在回答时，只需选择'是'或'否'。"
+        ],
+        "English": [
+            " Please answer with 'Yes' or 'No'.",
+            " Use 'Yes' or 'No' to reply.",
+            " Indicate your answer by choosing 'Yes' or 'No'.",
+            " Use 'Yes' or 'No' for your response, thank you.",
+            " Your answer should be either 'Yes' or 'No'.",
+            " Provide your response with a simple 'Yes' or 'No'.",
+            " May I ask for a response in the form of 'Yes' or 'No'?",
+            " Should your reply be limited to 'Yes' or 'No'?",
+            " Will you kindly respond with either 'Yes' or 'No'?",
+            " Are you able to provide a response in either 'Yes' or 'No'?"
+        ]
+    },
+    "select": {
+        "Chinese": [
+            "选择正确选项。",
+            "请选择正确的选项。",
+            "做出适当的选择。",
+            "做出恰当的选择。",
+            "请挑选出正确的选项。",
+            "从提供的选项中选择正确的选项。",
+            "在提供的选项中作出适当的选择。",
+            "从给定的选项中选择正确的答案。",
+            "从给出的选项中进行选择。",
+            "请在选项中做出正确的选择。"
+        ],
+        "English": [
+            " Please select a correct choice.",
+            " Choose the correct option.",
+            " Choose the right option.",
+            " Make the appropriate selection.",
+            " Choose the right option from the provided choices.",
+            " Make a selection from the available options.",
+            " Make a selection from the given options.",
+            " Make an appropriate selection.",
+            " Pick the right choice.",
+            " Select the correct option from the provided choices."
+        ]
+    }
+}

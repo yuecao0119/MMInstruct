@@ -1,0 +1,60 @@
+{
+    "judge": {
+        "Chinese": [
+            "图中生物之间的自然关系是否是<specific relationship>？",
+            "图中所示的生物与人类的自然关系是否是<specific relationship>",
+            "图中所示的生物与<specific creatures>的自然关系是否是<specific relationship>？",
+            "<Object 1>相对于<Object 2>的位置是<specific position>吗？",
+            "<Location 1>是否在<Location 2>的<specific direction>？",
+            "<Location 1>是否位于图像的<East/South/West/North, etc.>？"
+        ],
+        "English": [
+            "Is the natural relationship between the creatures in the picture a <specific relationship>?",
+            "Is the natural relationship between the creatures shown in the picture and humans a <specific relationship>",
+            "Is the natural relationship between the creatures shown in the picture and <specific creatures> a <specific relationship>?",
+            "Is the position of <Object 1> relative to <Object 2> a <specific position>?",
+            "Is <Location 1> in the <specific direction> of <Location 2>?",
+            "Is <Location 1> located in <East/South/West/North, etc.> of the image?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "图中生物之间存在什么样的自然关系？",
+            "在自然界中，图中所示的生物与人类之间有什么关系？",
+            "在自然界中，图中所示的生物与<其他特定生物>之间有什么关系？",
+            "就二维平面上的角度而言，<物体1>相对于<物体2>的位置是什么？",
+            "图中，<物体1>和<物体2>之间的相对位置是什么？",
+            "<地点1>在<地点2>的什么方向？",
+            "哪个<地点>位于<东部/南部/西部/北部等>？"
+        ],
+        "English": [
+            "What kind of natural relationships exist between creatures in the picture?",
+            "What is the relationship between the creatures shown in the picture and humans in nature?",
+            "What is the relationship between the creatures shown in the figure and <other specific creatures> in nature?",
+            "In terms of angles on a two-dimensional plane, what is the position of <Object 1> relative to <Object 2>?",
+            "What is the relative position between <Object 1> and <Object 2> in the figure?",
+            "What direction is <Location 1> in <Location 2>?",
+            "Which <Location 1> is located in <East/South/West/North, etc.>?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "图中生物之间存在什么样的自然关系？",
+            "在自然界中，图中所示的生物与人类之间有什么关系？",
+            "在自然界中，图中所示的生物与<其他特定生物>之间有什么关系？",
+            "就二维平面上的角度而言，<物体1>相对于<物体2>的位置是什么？",
+            "图中，<物体1>和<物体2>之间的相对位置是什么？",
+            "<地点1>在<地点2>的什么方向？",
+            "哪个<地点>位于<东部/南部/西部/北部等>？"
+        ],
+        "English": [
+            "What kind of natural relationships exist between creatures in the picture?",
+            "What is the relationship between the creatures shown in the picture and humans in nature?",
+            "What is the relationship between the creatures shown in the figure and <other specific creatures> in nature?",
+            "In terms of angles on a two-dimensional plane, what is the position of <Object 1> relative to <Object 2>?",
+            "What is the relative position between <Object 1> and <Object 2> in the figure?",
+            "What direction is <Location 1> in <Location 2>?",
+            "Which <Location 1> is located in <East/South/West/North, etc.>?"
+        ]
+    }
+}

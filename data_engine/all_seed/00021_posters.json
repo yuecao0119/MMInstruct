@@ -1,0 +1,80 @@
+{
+    "judge": {
+        "Chinese": [
+            "这部<movie/TV series/animation/game, etc.>的导演是<specific name>吗？",
+            "这部<movie/TV series/animation/game, etc.>的标题是<specific title>吗？",
+            "这部<movie/TV series/animation/game, etc.>来自<specific country or region>吗？",
+            "这个人是<specific movie/TV series/animation/game, etc.>的角色吗？",
+            "这张图片中的角色是在这部<movie/TV series/animation/game, etc.>里的名字是<specific name>吗？",
+            "这张<海报/照片/插图等>描述的是<specific movie/TV series/animation/game, etc.>吗？",
+            "这幅插图是<specific movie/TV series/animation/game, etc.>的宣传图片？",
+            "这个场景属于<specific movie/TV series/animation/game, etc.>的吗？",
+            "图片中<movie/TV series/animation/game, etc.>的主要角色是<specific name>吗？"
+        ],
+        "English": [
+            "Is the director of this <movie/TV series/animation/name, etc.> <specific name>?",
+            "Is the title of this <movie/TV series/animation/name, etc.> <specific title>?",
+            "Does this <movie/TV series/animation/name, etc.> come from <specific country or region>?",
+            "Is this person the character of <specific movie/TV series/animation/name, etc.>?",
+            "Is the character in this picture named <specific name> in this <movie/TV series/animation/name, etc.>?",
+            "Does this <poster/photo/illustration> describe <specific movie/TV series/animation/name, etc.>?",
+            "Is this illustration a promotional image for <specific movie/TV series/animation/name, etc.>?",
+            "Does this scene belong to <specific movie/TV series/animation/name, etc.>?",
+            "Is the main character of <movie/TV series/animation/name, etc.> in the picture <specific name>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "这部<movie/TV series/animation/game, etc.>的导演是谁？",
+            "这部<movie/TV series/animation/game, etc.>的标题是什么？",
+            "这部<movie/TV series/animation/game, etc.>来自哪个国家或地区？",
+            "这个人是哪个<movie/TV series/animation/game, etc.>角色？",
+            "这张图片中的角色是在这部<movie/TV series/animation/game, etc.>里的名字是什么？",
+            "这张<海报/照片/插图等>描述的是哪部<movie/TV series/animation/game, etc.>？",
+            "这张<海报/照片/插图等>是从哪里获取的？",
+            "这幅插图是什么<movie/TV series/animation/game, etc.>的宣传图片？",
+            "这个场景属于哪部<movie/TV series/animation/game, etc.>？",
+            "这是哪部<movie/TV series/animation/game, etc.>的剧照？",
+            "图片中<movie/TV series/animation/game, etc.>的主要角色是什么？"
+        ],
+        "English": [
+            "Who is the director of this <movie/TV series/animation/game, etc.>?",
+            "What is the title of this <movie/TV series/animation/game, etc.>?",
+            "Which country or region does this <movie/TV series/animation/game, etc.> come from?",
+            "Which <movie/TV series/animation/game, etc.> character is this person?",
+            "What is the name of the character in this picture in this <movie/TV series/animation/game, etc.>?",
+            "Which <movie/TV series/animation/game, etc.> does this <poster/photo/illustration, etc.> describe?",
+            "Where can I get this <poster/photo/illustration, etc.>??",
+            "What <movie/TV series/animation/game, etc.> promotional image is this illustration?",
+            "Which <movie/TV series/animation/game, etc.> does this scene belong to?",
+            "What is the main character in the <movie/TV series/animation/game, etc.> in the picture?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "这部<movie/TV series/animation/game, etc.>的导演是谁？",
+            "这部<movie/TV series/animation/game, etc.>的标题是什么？",
+            "这部<movie/TV series/animation/game, etc.>来自哪个国家或地区？",
+            "这个人是哪个<movie/TV series/animation/game, etc.>角色？",
+            "这张图片中的角色是在这部<movie/TV series/animation/game, etc.>里的名字是什么？",
+            "这张<海报/照片/插图等>描述的是哪部<movie/TV series/animation/game, etc.>？",
+            "这张<海报/照片/插图等>是从哪里获取的？",
+            "这幅插图是什么<movie/TV series/animation/game, etc.>的宣传图片？",
+            "这个场景属于哪部<movie/TV series/animation/game, etc.>？",
+            "这是哪部<movie/TV series/animation/game, etc.>的剧照？",
+            "图片中<movie/TV series/animation/game, etc.>的主要角色是什么？"
+        ],
+        "English": [
+            "Who is the director of this <movie/TV series/animation/game, etc.>?",
+            "What is the title of this <movie/TV series/animation/game, etc.>?",
+            "Which country or region does this <movie/TV series/animation/game, etc.> come from?",
+            "Which <movie/TV series/animation/game, etc.> character is this person?",
+            "What is the name of the character in this picture in this <movie/TV series/animation/game, etc.>?",
+            "Which <movie/TV series/animation/game, etc.> does this <poster/photo/illustration, etc.> describe?",
+            "Where can I get this <poster/photo/illustration, etc.>??",
+            "What <movie/TV series/animation/game, etc.> promotional image is this illustration?",
+            "Which <movie/TV series/animation/game, etc.> does this scene belong to?",
+            "What is the main character in the <movie/TV series/animation/game, etc.> in the picture?"
+        ]
+    }
+}

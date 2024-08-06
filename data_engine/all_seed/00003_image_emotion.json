@@ -1,0 +1,38 @@
+{
+    "judge": {
+        "Chinese": [
+            "图片中的<some object>的情绪是积极的吗？",
+            "图片中的<some object>的情绪是消极的吗？",
+            "这张图片传达了<specific emotion>的情绪？"
+        ],
+        "English": [
+            "Is the emotion of <some object> in the picture positive?",
+            "Is the emotion of <some object> in the picture negative?",
+            "Does this image convey the emotion of <specific emotion>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "这张照片描绘了什么样的情感？",
+            "识别此图像中表达的情感。",
+            "这张图片传达了什么样的情绪？"
+        ],
+        "English": [
+            "What emotion does this photo depict?",
+            "Identify the emotion expressed in this image.",
+            "Which mood does this image convey?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "这张照片描绘了什么样的情感？",
+            "识别此图像中表达的情感。",
+            "这张图片传达了什么样的情绪？"
+        ],
+        "English": [
+            "What emotion does this photo depict?",
+            "Identify the emotion expressed in this image.",
+            "Which mood does this image convey?"
+        ]
+    }
+}

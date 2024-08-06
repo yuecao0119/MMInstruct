@@ -1,0 +1,76 @@
+{
+    "judge": {
+        "Chinese": [
+            "这个<emoticon/screenshot/picture>之所以<Funny, interesting, thought-provoking or sad, etc>是因为<Specific reasons>吗？",
+            "这个<emoticon/screenshot/picture>背后的内涵是<Specific connotations>吗？",
+            "这个<emoticon/screenshot/picture>的故事与<Specific Story>有关吗？",
+            "这个<emoticon/screenshot/picture>传达了<specific information>的信息吗？",
+            "这个<emoticon/screenshot/picture>背后的故事与<Specific stories/people, etc>相关联吗？",
+            "<specific characteristic>是否是这个<emoticon/screenshot/picture>的一个显著特征？",
+            "这个<emoticon/screenshot/picture>通常被用来表达<Funny, interesting, thought-provoking or sad, etc>吗？",
+            "<Specific stories/people, etc>是否与这个<emoticon/screenshot/picture>有关联？"
+        ],
+        "English": [
+            "Is this <emotion/screenshot/picture> <Funny, interesting, thought-provoking or sad, etc> because of <Specific reasons>?",
+            "Is the connotation behind this <emotion/screenshot/picture> <Specific annotations>?",
+            "Is this story related to <Specific Story>?",
+            "Does this <emotion/screenshot/picture> convey the message of <specific information>?",
+            "Is the story behind this <emotion/screenshot/picture> related to <Specific stories/people, etc.>?",
+            "Is <specific characteristic> a prominent feature of this <emotion/screenshot/picture>?",
+            "Is this <emotion/screenshot/picture> commonly used to express <Funny, interesting, thought provoking or sad, etc.>?",
+            "Is <Specific stories/people, etc.> related to this <emotion/screenshot/picture>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "这个<emoticon/screenshot/picture>传达了什么信息？",
+            "这个<emoticon/screenshot/picture>通常用于表达什么？",
+            "这个<emoticon/screenshot/picture>的出处是什么？",
+            "这个<emoticon/screenshot/picture>讲述了什么样的故事？",
+            "这个<emoticon/screenshot/picture>的主要目的是什么？",
+            "如何理解这个<emoticon/screenshot/picture>？",
+            "这个<emoticon/screenshot/picture>背后有什么重要含义？",
+            "这个<emoticon/screenshot/picture>中的梗是什么？",
+            "这个<emoticon/screenshot/picture>有什么<好笑/悲伤/引人深思>之处？",
+            "这个<emoticon/screenshot/picture>有什么独特之处？"
+        ],
+        "English": [
+            "What message does this <emoticon/screenshot/picture> convey?",
+            "What is this <emoticon/screenshot/picture> usually used to express?",
+            "What is the source of this <emoticon/screenshot/picture>?",
+            "What story does this <emoticon/screenshot/picture> tell?",
+            "What is the main purpose of this <emoticon/screenshot/picture>?",
+            "How to understand this <emoticon/screenshot/picture>?",
+            "What is the important meaning behind this <emoticon/screenshot/picture>?",
+            "What is the meme in this <emoticon/screenshot/picture>?",
+            "What's <funny/sad/thought-provoking> about this <emoticon/screenshot/picture>?",
+            "What's unique about this <emoticon/screenshot/picture>?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "这个<emoticon/screenshot/picture>传达了什么信息？",
+            "这个<emoticon/screenshot/picture>通常用于表达什么？",
+            "这个<emoticon/screenshot/picture>的出处是什么？",
+            "这个<emoticon/screenshot/picture>讲述了什么样的故事？",
+            "这个<emoticon/screenshot/picture>的主要目的是什么？",
+            "如何理解这个<emoticon/screenshot/picture>？",
+            "这个<emoticon/screenshot/picture>背后有什么重要含义？",
+            "这个<emoticon/screenshot/picture>中的梗是什么？",
+            "这个<emoticon/screenshot/picture>有什么<好笑/悲伤/引人深思>之处？",
+            "这个<emoticon/screenshot/picture>有什么独特之处？"
+        ],
+        "English": [
+            "What message does this <emoticon/screenshot/picture> convey?",
+            "What is this <emoticon/screenshot/picture> usually used to express?",
+            "What is the source of this <emoticon/screenshot/picture>?",
+            "What story does this <emoticon/screenshot/picture> tell?",
+            "What is the main purpose of this <emoticon/screenshot/picture>?",
+            "How to understand this <emoticon/screenshot/picture>?",
+            "What is the important meaning behind this <emoticon/screenshot/picture>?",
+            "What is the meme in this <emoticon/screenshot/picture>?",
+            "What's <funny/sad/thought-provoking> about this <emoticon/screenshot/picture>?",
+            "What's unique about this <emoticon/screenshot/picture>?"
+        ]
+    }
+}

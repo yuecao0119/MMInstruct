@@ -1,0 +1,79 @@
+
+{
+    "judge": {
+        "Chinese": [
+            "<object1>是否在图像中<object2>的左侧？",
+            "<object1>是否在图像中<object2>的右侧？",
+            "<object1>是否在图像中<object2>的上方？",
+            "<object1>是否在图像中<object2>的下方？",
+            "<object1>是否在图像中<object2>的前面？",
+            "<object1>是否在图像中<object2>的后面？",
+            "<object1>是否在图像中<object2>的内部？",
+            "<object1>是否在图像中<object2>的外部？",
+            "图像中<object2>中间部位是否有<object1>？"
+        ],
+        "English": [
+            "Is the <object1> on the left of the <object2> in the image?",
+            "Is the <object1> on the right of the <object2> in the image?",
+            "Is the <object1> on the top of the <object2> in the image?",
+            "Is the <object1> under of the <object2> in the image?",
+            "Is the <object1> in front of the <object2> in the image?",
+            "Is the <object1> behind the <object2> in the image?",
+            "Is the <object1> inside the <object2> in the image?",
+            "Is the <object1> outside the <object2> in the image?",
+            "Is there <object1> in the middle of <object2> in the image?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "在图像中<object>的左侧的是什么东西？",
+            "在图像中<object>的右侧的是什么东西？",
+            "在图像中<object>的上方的是什么东西？",
+            "在图像中<object>的下方的是什么东西？",
+            "在图像中<object>的前面的是什么东西？",
+            "在图像中<object>的后面的是什么东西？",
+            "图像中，<object>的内部装有什么东西？",
+            "图像中，<object>在什么东西的内部？",
+            "在图像中<object>中间部位的是什么东西？",
+            "图像中<object1>在<object2>的什么方位？"
+        ],
+        "English": [
+            "What is on the left side of <object2> in the image?",
+            "What is on the right side of <object2> in the image?",
+            "What is on the top of <object2> in the image?",
+            "What is under <object2> in the image?",
+            "What is in front of <object2> in the image?",
+            "What is behind <object2> in the image?",
+            "What is inside <object2> in the image?",
+            "What is outside <object2> in the image?",
+            "What is in the middle of <object2> in the image?",
+            "In the image, where is <object1> located at <object2>?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "在图像中<object>的左侧的是什么东西？",
+            "在图像中<object>的右侧的是什么东西？",
+            "在图像中<object>的上方的是什么东西？",
+            "在图像中<object>的下方的是什么东西？",
+            "在图像中<object>的前面的是什么东西？",
+            "在图像中<object>的后面的是什么东西？",
+            "图像中，<object>的内部装有什么东西？",
+            "图像中，<object>在什么东西的内部？",
+            "在图像中<object>中间部位的是什么东西？",
+            "图像中<object1>在<object2>的什么方位？"
+        ],
+        "English": [
+            "What is on the left side of <object2> in the image?",
+            "What is on the right side of <object2> in the image?",
+            "What is on the top of <object2> in the image?",
+            "What is under <object2> in the image?",
+            "What is in front of <object2> in the image?",
+            "What is behind <object2> in the image?",
+            "What is inside <object2> in the image?",
+            "What is outside <object2> in the image?",
+            "What is in the middle of <object2> in the image?",
+            "In the image, where is <object1> located at <object2>?"
+        ]
+    }
+}

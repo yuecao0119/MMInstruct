@@ -1,0 +1,58 @@
+
+
+{
+    "judge": {
+        "Chinese": [
+            "图片中的计算过程正确吗？",
+            "图中的公式按照下面步骤计算是否正确？<calculation process> ",
+            "图中直角三角形的斜边长度是<result>吗？",
+            "使用图中所示的字母计算图中电路的功率。图中电路的功率是<result>吗？",
+            "图片中<the geometric shapes>的面积是否等于<result>？",
+            "图片中<the name of the variable>的值是否应等于<result>？"
+        ],
+        "English": [
+            "Are the actions in the picture correct?",
+            "Is the formula in the figure calculated correctly according to the following steps? <calculation process>",
+            "Is the length of the hypotenuse of the right triangle in the figure <result>?",
+            "Calculate the power of the circuit in the diagram using the letters indicated in the diagram. Is the power of the circuit in the diagram <result>?",
+            "Is the area of the <the geometric shapes> in the picture equal to <result>?",
+            "Should the value of <the name of the variable> in the picture equal <result>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "图片中的计算过程正确吗？为什么？",
+            "计算图中的公式。",
+            "图中的操作是否恰当",
+            "使用图中所示的字母计算图中电路的功率。",
+            "图片中<the geometric shapes>的面积等于多少？",
+            "图片中<the name of the variable>的值应该等于多少？"
+        ],
+        "English": [
+            "Is the calculation process in the picture correct? Why?",
+            "Calculate the formulas in the picture.",
+            "Is the operation in the picture appropriate?",
+            "Calculate the power of the circuit in the picture using the letters shown in the picture.",
+            "What is the area of <the geometric shapes> in the picture?",
+            "What should the value of <the name of the variable> in the picture be equal to?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "图片中的计算过程正确吗？为什么？",
+            "计算图中的公式。",
+            "图中的操作是否恰当",
+            "使用图中所示的字母计算图中电路的功率。",
+            "图片中<the geometric shapes>的面积等于多少？",
+            "图片中<the name of the variable>的值应该等于多少？"
+        ],
+        "English": [
+            "Is the calculation process in the picture correct? Why?",
+            "Calculate the formulas in the picture.",
+            "Is the operation in the picture appropriate?",
+            "Calculate the power of the circuit in the picture using the letters shown in the picture.",
+            "What is the area of <the geometric shapes> in the picture?",
+            "What should the value of <the name of the variable> in the picture be equal to?"
+        ]
+    }
+}

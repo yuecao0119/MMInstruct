@@ -1,0 +1,54 @@
+{
+    "judge": {
+        "Chinese": [
+            "这张图片发生了<special event>的事件吗？",
+            "关于这个图片的具体内容，是<picture content>这样的吗？",
+            "这个图片的主题是<specific theme>吗？",
+            "照片中的场景是<specific scene>吗？",
+            "这张照片中的关键元素是<key element>吗？"
+        ],
+        "English": [
+            "Did the incident of <special event> occur in this picture?",
+            "Is the specific content of this picture like <picture content>?",
+            "Is the theme of this picture <specific theme>?",
+            "Is the scene in the photo <specific scene>?",
+            "Is the key element in this photo <key element>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "请描述此图片的详细内容。",
+            "你能描述一下这张照片的焦点吗？",
+            "适合这个图片的标题是什么？",
+            "请描述一下图中的场景信息。",
+            "请列出图片中的主要元素。",
+            "你认为这张图片中发生了什么？"
+        ],
+        "English": [
+            "Please describe the details of this image.",
+            "Can you describe the focus of this photo?",
+            "What would be a suitable title for this image?",
+            "Please describe the scene information in the picture.",
+            "Please list the main elements in the image.",
+            "What do you think is happening in this picture?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "请描述此图片的详细内容。",
+            "你能描述一下这张照片的焦点吗？",
+            "适合这个图片的标题是什么？",
+            "请描述一下图中的场景信息。",
+            "请列出图片中的主要元素。",
+            "你认为这张图片中发生了什么？"
+        ],
+        "English": [
+            "Please describe the details of this image.",
+            "Can you describe the focus of this photo?",
+            "What would be a suitable title for this image?",
+            "Please describe the scene information in the picture.",
+            "Please list the main elements in the image.",
+            "What do you think is happening in this picture?"
+        ]
+    }
+}

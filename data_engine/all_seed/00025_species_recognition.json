@@ -1,0 +1,60 @@
+{
+    "judge": {
+        "Chinese": [
+            "这是<Specific species>吗？",
+            "<Specific species>是否在这张<img>中？",
+            "这个<object>的俗名是<name>吗？",
+            "这个<object>的学名是<name>吗？",
+            "在<img>中的<object>物种是<Specific types>吗？",
+            "在<img>中的<object>品种是<Specific varieties>吗？"
+        ],
+        "English": [
+            "Is this <Specific species>?",
+            "Is the <Specific species> in this <img>?",
+            "Is the common name of this <object> <name>?",
+            "Is the scientific name of this <object> <name>?",
+            "Is the <object> species in <img> <specific types>?",
+            "Is the <object> variety in <img> <Specific varieties>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "这张图中的主要物种是什么？",
+            "在这张图中中有哪些物种？",
+            "识别图中里的物种。",
+            "这个物种的俗名是什么？",
+            "这个物种的学名是什么？",
+            "这是一个<object>，属于哪个物种？",
+            "这张图片中的<object>属于哪个品种？"
+        ],
+        "English": [
+            "What are the main species in this picture?",
+            "What species are there in this picture?",
+            "Identify the species in the picture.",
+            "What is the common name of this species?",
+            "What is the scientific name of this species?",
+            "This is an <object>, which species does it belong to?",
+            "Which variety does the <object> in this picture belong to?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "这张图中的主要物种是什么？",
+            "在这张图中中有哪些物种？",
+            "识别图中里的物种。",
+            "这个物种的俗名是什么？",
+            "这个物种的学名是什么？",
+            "这是一个<object>，属于哪个物种？",
+            "这张图片中的<object>属于哪个品种？"
+        ],
+        "English": [
+            "What are the main species in this picture?",
+            "What species are there in this picture?",
+            "Identify the species in the picture.",
+            "What is the common name of this species?",
+            "What is the scientific name of this species?",
+            "This is an <object>, which species does it belong to?",
+            "Which variety does the <object> in this picture belong to?"
+        ]
+    }
+}

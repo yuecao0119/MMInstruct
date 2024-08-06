@@ -1,0 +1,52 @@
+{
+    "judge": {
+        "Chinese": [
+            "这张图片拍摄于<a certain scene>吗?",
+            "这张图像的场景类别是<a certain scene category>吗？",
+            "这张图像的环境类型是<a certain environment type>吗？",
+            "这张图像的季节是<a certain season>吗？",
+            "这张图像的温度状态是<a certain temperature status>吗？",
+            "图片显示的是<a certain scene>吗？"
+        ],
+        "English": [
+            "Was this picture taken in <a certain scene>?",
+            "Is the scene category of this image <a certain category scene>?",
+            "Is the environment type of this image <a certain environment type>?",
+            "Is the season of this image <a certain season>?",
+            "Is the temperature status of this image <a certain temperature status>?",
+            "Does the picture show <a certain scene>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "哪个场景类别与此图像最匹配？",
+            "图中描绘了什么样的环境类型？",
+            "图中描绘的是哪个季节？",
+            "图片中描绘了什么样的温度状态？",
+            "图片显示的是什么场景？"
+        ],
+        "English": [
+            "Which scene category best matches this image?",
+            "What type of environment is depicted in the image?",
+            "What season is depicted in the picture?",
+            "What temperature state is depicted in the picture?",
+            "What scene does the picture show?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "请告诉我照片中拍摄的环境。",
+            "解释此图中可见的环境类型。",
+            "解释图中所示的温度状态。",
+            "照片中显示的是哪个季节？",
+            "图片显示的什么场景？"
+        ],
+        "English": [
+            "Please tell me about the environment in which the photos were taken.",
+            "Explain the type of environment visible in this image.",
+            "Explain the temperature conditions shown in the picture.",
+            "Which season is shown in the photo?",
+            "What scene is shown in the picture?"
+        ]
+    }
+}

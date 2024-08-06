@@ -1,0 +1,48 @@
+{
+    "judge": {
+        "Chinese": [
+            "这是<landmark_building/attraction>的照片吗？",
+            "图片的<above, below, left or right>的建筑物是<landmark_building/attraction>吗？",
+            "图片中的建筑是<landmark_building/attraction>吗？",
+            "这张图中的地标属于<city/country>吗？"
+        ],
+        "English": [
+            "Is this a photo of <landmark_building/attraction>?",
+            "Is the building <above, below, left or right> in the picture <landmark_building/attraction>?",
+            "Is the building in the picture <landmark_building/attraction>?",
+            "Does the landmark in this picture belong to <city/country>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "这个照片显示的是哪个<标志性建筑/景点>？",
+            "请指定此处显示的<标志性建筑/景点>的名称。",
+            "位于图片<above, below, left or right of the image>的<标志性建筑/景点>是什么？",
+            "这张图中的<标志性建筑/景点>属于哪个<城市/国家>？",
+            "请简要介绍一下图中的<标志性建筑/景点>。"
+        ],
+        "English": [
+            "Which <landmark_building/attraction> does this photo show?",
+            "Please specify the name of the <landmark_building/attraction> shown here.",
+            "What is the <landmark_building/attraction> located <above, below, left or right of the image>?",
+            "Which <city/country> does the <landmark_building/attraction> in this picture belong to?",
+            "Please briefly introduce the <landmark_building/attraction> in the picture."
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "这个照片显示的是哪个<标志性建筑/景点>？",
+            "请指定此处显示的<标志性建筑/景点>的名称。",
+            "位于图片<above, below, left or right of the image>的<标志性建筑/景点>是什么？",
+            "这张图中的<标志性建筑/景点>属于哪个<城市/国家>？",
+            "请简要介绍一下图中的<标志性建筑/景点>。"
+        ],
+        "English": [
+            "Which <landmark_building/attraction> does this photo show?",
+            "Please specify the name of the <landmark_building/attraction> shown here.",
+            "What is the <landmark_building/attraction> located <above, below, left or right of the image>?",
+            "Which <city/country> does the <landmark_building/attraction> in this picture belong to?",
+            "Please briefly introduce the <landmark_building/attraction> in the picture."
+        ]
+    }
+}

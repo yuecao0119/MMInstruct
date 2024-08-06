@@ -1,0 +1,72 @@
+{
+    "judge": {
+        "Chinese": [
+            "这两位人物可能是合作伙伴吗？",
+            "他们之间的联系可能是家庭关系吗？",
+            "他们可能是情侣吗？",
+            "这两人可能是同事吗？",
+            "这两位人物可能是同一家公司的员工吗？",
+            "他们之间可能存在师生关系吗？",
+            "这两人可能是一对兄弟姐妹吗？",
+            "在这个环境中，他们可能是陌生人吗？",
+            "他们可能是彼此的竞争对手吗？",
+            "你认为这两人可能是一对亲子吗？",
+            "你认为这两人可能是邻居吗？",
+            "你认为这两人可能是一对旅行伴侣吗？",
+            "这两位人物之间有可能是亲戚吗？",
+            "这张图片中的两位人物可能是朋友吗？"
+        ],
+        "English": [
+            "Could these two individuals be partners?",
+            "Is the connection between them possibly a family relationship?",
+            "Could they be a couple?",
+            "Are these two individuals possibly colleagues?",
+            "Could these two characters be employees of the same company?",
+            "Is there a possibility of a teacher-student relationship between them?",
+            "Could these two people be siblings?",
+            "In this setting, could they be strangers to each other?",
+            "Is it possible that they are competitors?",
+            "Do you think these two individuals could be parent and child?",
+            "Do you think these two people could be neighbors?",
+            "Do you think these two individuals could be travel companions?",
+            "Is there a possibility of them being relatives?",
+            "Could the two individuals in this picture be friends?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "这张图片中的人物之间存在什么社会关系？",
+            "你觉得这几个人之间的亲密度是什么样的？",
+            "你认为这几个人是因为什么而相识的？",
+            "在这张图片中，他们之间可能存在着怎样的互动？",
+            "你认为这几人之间的互动可能有何特点？",
+            "这张图片中的人物之间信任程度是怎么样的？"
+        ],
+        "English": [
+            "What social relationships exist between the people in this picture?",
+            "What do you think the intimacy between these people is like?",
+            "Why do you think these people got to know each other?",
+            "What kind of interaction might there be between them in this picture?",
+            "What do you think might be the characteristics of the interaction between these people?",
+            "What is the level of trust between the people in this picture?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "这张图片中的人物之间存在什么社会关系？",
+            "你觉得这几个人之间的亲密度是什么样的？",
+            "你认为这几个人是因为什么而相识的？",
+            "在这张图片中，他们之间可能存在着怎样的互动？",
+            "你认为这几人之间的互动可能有何特点？",
+            "这张图片中的人物之间信任程度是怎么样的？"
+        ],
+        "English": [
+            "What social relationships exist between the people in this picture?",
+            "What do you think the intimacy between these people is like?",
+            "Why do you think these people got to know each other?",
+            "What kind of interaction might there be between them in this picture?",
+            "What do you think might be the characteristics of the interaction between these people?",
+            "What is the level of trust between the people in this picture?"
+        ]
+    }
+}

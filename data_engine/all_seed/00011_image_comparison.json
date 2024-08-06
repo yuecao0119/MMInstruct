@@ -1,0 +1,68 @@
+{
+    "judge": {
+        "Chinese": [
+            "图中的<物体>一样大吗？",
+            "图中的<物体>颜色一样吗？",
+            "图中的商品<特定商品属性>一样吗？",
+            "图中的商品适用场合一样吗？",
+            "图中的商品适用人群一样吗？",
+            "图片中是否阐明了<specific theory>这样的道理？"
+        ],
+        "English": [
+            "Are the <objects> in the picture the same size?",
+            "Are the <objects> in the picture the same color?",
+            "Are the products in the picture <specific product attributes> the same?",
+            "Are the products in the picture suitable for the same situations?",
+            "Are the products in the picture suitable for the same people?",
+            "Does the picture illustrate <specific theory>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "图中的<物体>一样大吗？",
+            "图中的<物体>颜色一样吗？",
+            "对比图中<物体>的<特定属性>。",
+            "图中的商品<特定商品属性>一样吗？",
+            "图中的商品适用场合一样吗？",
+            "图中的商品适用人群一样吗？",
+            "请详细描述画面，并告诉我图片中发生了什么事情。",
+            "请详细描述图片，并告诉我图片阐明了什么道理。",
+            "请详细解释图片，并说明图片想表达的核心思想。"
+        ],
+        "English": [
+            "Is the <object> in the picture the same size?",
+            "Is the color of the <object> in the picture the same?",
+            "Compare the <specific attributes> of the <object> in the figure.",
+            "Is the product <specific product attributes> in the picture the same?",
+            "Is the product in the picture suitable for the same occasion?",
+            "Is the product in the picture suitable for the same audience?",
+            "Please describe the scene in detail and tell me what happened in the picture.",
+            "Please provide a detailed description of the image and tell me what it illustrates.",
+            "Please provide a detailed explanation of the image and explain the core idea it intends to convey."
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "图中的<物体>一样大吗？",
+            "图中的<物体>颜色一样吗？",
+            "对比图中<物体>的<特定属性>。",
+            "图中的商品<特定商品属性>一样吗？",
+            "图中的商品适用场合一样吗？",
+            "图中的商品适用人群一样吗？",
+            "请详细描述画面，并告诉我图片中发生了什么事情。",
+            "请详细描述图片，并告诉我图片阐明了什么道理。",
+            "请详细解释图片，并说明图片想表达的核心思想。"
+        ],
+        "English": [
+            "Is the <object> in the picture the same size?",
+            "Is the color of the <object> in the picture the same?",
+            "Compare the <specific attributes> of the <object> in the figure.",
+            "Is the product <specific product attributes> in the picture the same?",
+            "Is the product in the picture suitable for the same occasion?",
+            "Is the product in the picture suitable for the same audience?",
+            "Please describe the scene in detail and tell me what happened in the picture.",
+            "Please provide a detailed description of the image and tell me what it illustrates.",
+            "Please provide a detailed explanation of the image and explain the core idea it intends to convey."
+        ]
+    }
+}

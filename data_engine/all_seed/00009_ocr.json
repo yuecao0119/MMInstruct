@@ -1,0 +1,38 @@
+{
+    "judge": {
+        "Chinese": [
+            "图像是否包含<特定文本/字符>？",
+            "图像中的<所有/上方/中间/下方/左边/右边等>文本信息是否是<translation results>？",
+            "图像中的文本信息的<中文/英文/日语等>翻译结果是否是<placeholder>？"
+        ],
+        "English": [
+            "Does the image contain <specific text/character>?",
+            "Is the <all/above/middle/bottom/left/right, etc.> text information in the image <specific text>?",
+            "Is the <Chinese/English/Japanese, etc.> translation result of the text information in the image <translation results>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "识别图片中的<所有/上方/中间/下方/左边/右边等>文本信息。",
+            "解释此图片中的文本信息。",
+            "翻译此图片中的文本信息为<中文/英文/日语等>。"
+        ],
+        "English": [
+            "Recognize <all/above/middle/below/left/right, etc.> text information in the picture.",
+            "Explain the textual information in this image.",
+            "Translate the text information in this image to <Chinese/English/Japanese, etc.>."
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "识别图片中的<所有/上方/中间/下方/左边/右边等>文本信息。",
+            "解释此图片中的文本信息。",
+            "翻译此图片中的文本信息为<中文/英文/日语等>。"
+        ],
+        "English": [
+            "Recognize <all/above/middle/below/left/right, etc.> text information in the picture.",
+            "Explain the textual information in this image.",
+            "Translate the text information in this image to <Chinese/English/Japanese, etc.>."
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "judge": {
+        "Chinese": [
+            "这个<img>是否适合在<Specific Purpose/Scenario>下使用？",
+            "使用<标语/宣传口号/广告>来描述这个<img>恰当吗？",
+            "这个<img>是否与<标语/宣传口号/广告>的描述相符合？",
+            "<标语/宣传口号/广告>是否适合用来表达这个<img>的特点？",
+            "这首古诗是否适合用来这个<img>？",
+            "<故事/童话/科普介绍/推荐信/电子邮件>是否适合用来这个<img>？"
+        ],
+        "English": [
+            "Is this <img> suitable for use under <Specific Purpose/Scenario>?",
+            "Is it appropriate to use <slogan/promotional slogan/advertisement> to describe this <img>?",
+            "Does this <img> match the description of the <slogan/promotional slogan/advertisement>?",
+            "Is the <slogan/promotional slogan/advertisement> suitable for expressing the characteristics of this <img>?",
+            "Is this ancient poem suitable for this <img>?",
+            "Is <Story/Fairy Tale/Science Popularization Introduction/Recommendation Letter/Email> suitable for this <img>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "根据这张<img>，写一篇<故事/童话/科普介绍/推荐信/电子邮件>。",
+            "关于<img>中的<object>，写一篇<text_type>。",
+            "撰写一篇<text_type>，推荐图中的<object>。",
+            "撰写一首描述<img>中<object>的诗。",
+            "为这个<object>撰写一则推荐语。",
+            "推荐在<img>中看到的<object>，并提供购买原因。",
+            "给<somebody>写封电子邮件，介绍图片中的内容。",
+            "根据<img>内容，我想与朋友分享这个<img>，该如何推荐。",
+            "这个<img>适用于什么<用途/场景>？",
+            "为图中产品写一个符合产品特点的<标语/宣传口号/广告>？"
+        ],
+        "English": [
+            "Based on this <img>, write a <story/fairy_tale/popular_science_introduction/recommendation_letter/email>.",
+            "Write an article about <object> in <img>. <text_type>.",
+            "Write an article <text_type> and recommend the <object> in the picture.",
+            "Write a poem describing the <object> in <img>.",
+            "Write a recommendation for this <object>.",
+            "Recommend the <object> seen in <img> and provide a reason for purchase.",
+            "Write an email to <somebody> describing the content in the image.",
+            "Based on the content of <img>, I want to share this <img> with my friends. How should I recommend it?",
+            "What <purpose/scenario> is this <img> suitable for?",
+            "Write a <slogan/slogan/advertisement> for the product in the picture that fits the characteristics of the product?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "根据这张<img>，写一篇<故事/童话/科普介绍/推荐信/电子邮件>。",
+            "关于<img>中的<object>，写一篇<text_type>。",
+            "撰写一篇<text_type>，推荐图中的<object>。",
+            "撰写一首描述<img>中<object>的诗。",
+            "为这个<object>撰写一则推荐语。",
+            "推荐在<img>中看到的<object>，并提供购买原因。",
+            "给<somebody>写封电子邮件，介绍图片中的内容。",
+            "根据<img>内容，我想与朋友分享这个<img>，该如何推荐。",
+            "这个<img>适用于什么<用途/场景>？",
+            "为图中产品写一个符合产品特点的<标语/宣传口号/广告>？"
+        ],
+        "English": [
+            "Based on this <img>, write a <story/fairy_tale/popular_science_introduction/recommendation_letter/email>.",
+            "Write an article about <object> in <img>. <text_type>.",
+            "Write an article <text_type> and recommend the <object> in the picture.",
+            "Write a poem describing the <object> in <img>.",
+            "Write a recommendation for this <object>.",
+            "Recommend the <object> seen in <img> and provide a reason for purchase.",
+            "Write an email to <somebody> describing the content in the image.",
+            "Based on the content of <img>, I want to share this <img> with my friends. How should I recommend it?",
+            "What <purpose/scenario> is this <img> suitable for?",
+            "Write a <slogan/slogan/advertisement> for the product in the picture that fits the characteristics of the product?"
+        ]
+    }
+}

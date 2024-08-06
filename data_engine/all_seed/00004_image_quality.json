@@ -1,0 +1,50 @@
+{
+    "judge": {
+        "Chinese": [
+            "第一张图像的对比度是否高于第二张图像？",
+            "第二个图像的亮度比第一个图像的低吗？",
+            "第一个图像比第二个图像更清晰吗？",
+            "第二张图像的对比度是否高于第一张图像？",
+            "第一个图像的清晰度是否低于第二个图像？",
+            "第一个图像比第二个图像暗吗？"
+        ],
+        "English": [
+            "Does the first image shows the higher contrast than the second image?",
+            "Is the brightness of the second image lower than that of the first image?",
+            "Is the first image clearer than the second image?",
+            "Does the second image shows the higher contrast than the first image?",
+            "Is the clarity of the first image lower than that of the second image?",
+            "Is the first image darker than the second image?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "哪个图像的亮度最<高/低>？",
+            "这两张图像中哪个清晰度最<高/低>？",
+            "在哪幅图像中，颜色对比度最<高/低>？"
+        ],
+        "English": [
+            "Which image has the highest brightness?",
+            "Which image shows the highest sharpness?",
+            "In which image do the colors stand out most from each other?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "哪个图像的亮度最<高/低>？",
+            "这两张图像中哪个清晰度最<高/低>？",
+            "在哪幅图像中，颜色对比度最<高/低>？",
+            "描述第<order number>张图像的清晰度。",
+            "描述第<order number>张图像的对比度。",
+            "描述第<order number>张图像的亮度。"
+        ],
+        "English": [
+            "Which image has the highest brightness?",
+            "Which image shows the highest sharpness?",
+            "In which image do the colors stand out most from each other?",
+            "Describe the clarity of the <order number> image.",
+            "Describe the contrast of the <order number> image.",
+            "Describe the brightness of the <order number> image."
+        ]
+    }
+}

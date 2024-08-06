@@ -1,0 +1,56 @@
+{
+    "judge": {
+        "Chinese": [
+            "根据图像，<some people>在<doing something>时，<something>是他可能面临的一个关键问题吗？",
+            "根据这张图，接下来可能会发生<will happen something>这样的事吗？",
+            "这张图片的未来结果可能是<specific result>吗？",
+            "这张图片未来可能会是<specific result>的积极结果吗？",
+            "这张图片未来可能会是<specific result>的不幸结果吗？",
+            "这张图片未来的天气可能会是<weather>吗？"
+        ],
+        "English": [
+            "Based on the image, is <something> one key issue that <some people> may face when <doing something>?",
+            "Based on this picture, is it possible that <will happen something> next?",
+            "Is the expected result of this image <specific result>?",
+            "Is the expected positive result of this image <specific result>?",
+            "Is the expected unfortunate outcome of this image <specific result>?",
+            "Will the weather in this picture be <weather> next?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "根据图像，<some people>在<doing something>时可能面临的一个关键问题是什么？",
+            "根据这张图片，请预测接下来会发生什么？",
+            "这张图片的预期结果是什么？",
+            "这张图片预期的积极结果是什么？",
+            "这张图片预期的不幸结果是什么？",
+            "预测这张图片中的天气之后会是怎么样的。"
+        ],
+        "English": [
+            "Based on the image, what is one key issue that <some people> might face when <doing something>?",
+            "Based on this image, please predict what will happen next?",
+            "What is the intended outcome in this image?",
+            "What is the positive result in this image?",
+            "What is the unfortunate outcome in this image?",
+            "Predict what the weather in this picture will be like next."
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "根据图像，<some people>在<doing something>时可能面临的一个关键问题是什么？",
+            "根据这张图片，请预测接下来会发生什么？",
+            "这张图片的预期结果是什么？",
+            "这张图片预期的积极结果是什么？",
+            "这张图片预期的不幸结果是什么？",
+            "预测这张图片中的天气之后会是怎么样的。"
+        ],
+        "English": [
+            "Based on the image, what is one key issue that <some people> might face when <doing something>?",
+            "Based on this image, please predict what will happen next?",
+            "What is the intended outcome in this image?",
+            "What is the positive result in this image?",
+            "What is the unfortunate outcome in this image?",
+            "Predict what the weather in this picture will be like next."
+        ]
+    }
+}

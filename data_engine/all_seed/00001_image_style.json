@@ -1,0 +1,30 @@
+{
+    "judge": {
+        "Chinese": [
+            "这张图片的艺术风格是<a certain artistic style>？"
+        ],
+        "English": [
+            "Is the style of this image a <a certain artistic style>?"
+        ]
+    },
+    "choice":{
+        "Chinese": [
+            "这张图片展示了什么艺术风格？",
+            "识别此图像的艺术风格。"
+        ],
+        "English": [
+            "What art style is showcased in this image?",    
+            "Identify the art style of this image."
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "这张图片展示了什么艺术风格？",
+            "识别此图像的艺术风格。"
+        ],
+        "English": [
+            "What art style is showcased in this image?",    
+            "Identify the art style of this image."
+        ]
+    }
+}

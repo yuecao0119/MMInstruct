@@ -1,0 +1,50 @@
+{
+    "judge": {
+        "Chinese": [
+            "这个<object>来自<Specific brand>吗？",
+            "这张图片中<object>的品牌是<Specific brand>吗？",
+            "这个<object>的制造商是<Specific producer>吗？",
+            "这个<object>的公司是<Specific company>吗？",
+            "这个<object>的国家是<Specific country>吗？"
+        ],
+        "English": [
+            "Does this <object> come from <Specific brand>?",
+            "Is the brand of <object> in this picture <Specific brand>?",
+            "Is the manufacturer of this <object> <Specific producer>?",
+            "Is this <object> company a <Specific company>?",
+            "Is this <object> country a <specific country>?"
+        ]
+    },
+    "choice": {
+        "Chinese": [
+            "您能识别这张图片中<object>的品牌吗？",
+            "这张图片中<object>的品牌是什么？",
+            "这个<object>的制造商是谁？",
+            "哪家公司生产的这个<object>？",
+            "这张图片中<object>是哪个国家的产品？"
+        ],
+        "English": [
+            "Can you identify the brand of <object> in this picture?",
+            "What is the brand of <object> in this picture?",
+            "Who is the producer of this <object>?",
+            "Which company produces this <object>?",
+            "Which country's product is the <object> in this picture?"
+        ]
+    },
+    "sentence": {
+        "Chinese": [
+            "您能识别这张图片中<object>的品牌吗？",
+            "这张图片中<object>的品牌是什么？",
+            "这个<object>的制造商是谁？",
+            "哪家公司生产的这个<object>？",
+            "这张图片中<object>是哪个国家的产品？"
+        ],
+        "English": [
+            "Can you identify the brand of <object> in this picture?",
+            "What is the brand of <object> in this picture?",
+            "Who is the producer of this <object>?",
+            "Which company produces this <object>?",
+            "Which country's product is the <object> in this picture?"
+        ]
+    }
+}
