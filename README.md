@@ -12,7 +12,19 @@ The dataset is available on Hugging Face at [🤗 yuecao0119/MMInstruct](https:/
 
 ## Introduction
 
-### Data composition 
+Vision-language supervised fine-tuning effectively enhances VLLM performance, but existing visual instruction tuning datasets have limitations:
+
+1. **Instruction Annotation Quality**: Despite strong performance, advanced VLLMs may generate instructions with inaccuracies, such as hallucinations.
+2. **Instruction and Image Diversity**: Limited instruction types and lack of diverse image data impact the model's ability to generate varied and realistic outputs.
+
+### MMInstruct Dataset
+
+To address these challenges, we created the MMInstruct dataset, featuring:
+- **973K instructions** from **24 domains**
+- Four instruction types: Judgement, Multiple-Choice, Long Visual Question Answering, and Short Visual Question Answering.
+
+<img width="1117" alt="image" src="https://github.com/user-attachments/assets/92ef8128-89e3-4891-9dad-6c64da2c9de3">
+
 
 The open source datasets on Hugging Face [yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct) include:
 
