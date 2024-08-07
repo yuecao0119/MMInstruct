@@ -4,6 +4,7 @@ The official implementation of the paper "[MMInstruct: A High-Quality Multi-Moda
 
 The dataset is available on Hugging Face at [🤗 yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct).
 
+
 ## Todo List
 
 - [x] Data Engine.
@@ -16,6 +17,7 @@ Vision-language supervised fine-tuning effectively enhances VLLM performance, bu
 
 1. **Instruction Annotation Quality**: Despite strong performance, advanced VLLMs may generate instructions with inaccuracies, such as hallucinations.
 2. **Instruction and Image Diversity**: Limited instruction types and lack of diverse image data impact the model's ability to generate varied and realistic outputs.
+
 
 ### MMInstruct Dataset
 
@@ -40,8 +42,15 @@ We also expand MMInstruct with other open-source data, including:
 | scientific figure    | [TQA](https://openaccess.thecvf.com/content_cvpr_2017/html/Kembhavi_Are_You_Smarter_CVPR_2017_paper.html) |
 | map chart            | [MapQA](https://arxiv.org/abs/2211.08545)                    |
 
+### Data Engine
 
+We developed an instruction generation data engine leveraging GPT-4V, GPT-3.5, and manual correction. This engine allows semi-automatic, low-cost, multi-domain instruction generation at 1/6 the cost of manual construction.
 
+<img width="1589" alt="image" src="https://github.com/user-attachments/assets/8513df0f-f3d3-4145-bc81-baa1db656a4e">
+
+### Performance
+
+<img width="1220" alt="image" src="https://github.com/user-attachments/assets/eca16ea4-8e73-4e92-8a5b-3036557abb94">
 
 ## Citation
 
