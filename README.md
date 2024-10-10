@@ -2,7 +2,7 @@
 
 The official implementation of the paper "[MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](http://arxiv.org/abs/2407.15838)".
 
-The dataset is available on Hugging Face at [🤗 yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct).
+The dataset is available on Hugging Face at [🤗 yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct-GPT4V).
 
 
 ## Todo List
@@ -27,7 +27,7 @@ To address these challenges, we created the MMInstruct dataset, featuring:
 
 <img width="1117" alt="image" src="https://github.com/user-attachments/assets/92ef8128-89e3-4891-9dad-6c64da2c9de3">
 
-The open source datasets on Hugging Face [🤗 yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct) include:
+The open source datasets on Hugging Face [🤗 yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct-GPT4V) include:
 
 * `caption_cn`: 144K English detailed image caption data generated using *gpt-4-vision-preview*.
 * `caption_en`: 18.2K Chinese detailed image caption data generated using *gpt-4-vision-preview*.
