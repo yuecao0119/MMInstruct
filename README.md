@@ -4,6 +4,12 @@ The official implementation of the paper "[MMInstruct: A High-Quality Multi-Moda
 
 The dataset is available on Hugging Face at [🤗 yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct-GPT4V).
 
+## 📣 News
+
+- **[Oct 14, 2024]** Our paper is accepted by SCIENCE CHINA Information Sciences!
+- **[Aug 6, 2024]**  The dataset is already accessible on Hugging Face at [🤗 yuecao0119/MMInstruct](https://huggingface.co/datasets/yuecao0119/MMInstruct-GPT4V).
+- **[Jul 22, 2024]** The paper has been released on [arXiv](https://arxiv.org/abs/2407.15838)!
+- **[Jul 22, 2024]** Code has been released.
 
 ## Todo List
 
