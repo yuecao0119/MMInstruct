@@ -54,6 +54,19 @@ We developed an instruction generation data engine leveraging GPT-4V, GPT-3.5, a
 
 <img width="1589" alt="image" src="https://github.com/user-attachments/assets/8513df0f-f3d3-4145-bc81-baa1db656a4e">
 
+As described in [our paper](http://arxiv.org/abs/2407.15838), we mainly proposed a semi-automatic and low-cost instruction generation data engine using GPT-4V, GPT-3.5 and manual correction. Our data engine consists of six steps: (a) image collection, (b) image caption generation, (c) seed question collection, (d) automatic instruction generation, (e) dataset expansion and (f) manual correction.
+
+(a) First, we collect a large number of different images from various sources, which are mainly obtained through some selected source images, and then retrieved by crawlers and clips, etc., as shown in [image_retrieval_bing_spider.py](https://github.com/yuecao0119/MMInstruct/blob/main/data_engine/image_retrieval_bing_spider.py) and [image_retrieval_clip.py](https://github.com/yuecao0119/MMInstruct/blob/main/data_engine/image_retrieval_clip.py).
+
+(b) And use GPT-4V to generate detailed image captions, as shown in [gpt4v_caption.py](https://github.com/yuecao0119/MMInstruct/blob/main/data_engine/gpt4v_caption.py).
+
+(c) Then experts designed corresponding [seed questions](https://github.com/yuecao0119/MMInstruct/tree/main/data_engine/all_seed) for different fields. 
+
+(d) We use image captions and seed questions to automatically generate a rich and diverse set of instruction data through GPT-3.5, as shown in [gpt35_qa.py](https://github.com/yuecao0119/MMInstruct/blob/main/data_engine/gpt35_qa.py).
+
+(e), (f) In addition, we also use various methods to expand our dataset. Finally, manual correction is performed to ensure data quality and accuracy.
+
+
 ### Performance
 
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/eca16ea4-8e73-4e92-8a5b-3036557abb94">
